@@ -1,7 +1,6 @@
 import React from 'react'
 import logoImage from "../assets/rect.png";
-import rectImage from "../assets/logo.png";
-import overlay from "../assets/overlay.png";
+
 
 const Navbar = () => {
   return (
