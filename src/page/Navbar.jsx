@@ -20,10 +20,10 @@ const Navbar = () => {
           <a href="/membership" className="nav-button px-9">
             MEMBERSHIPS
           </a>
-          <a href="#journals" className="nav-button px-9">
+          <a href="/lifemembership" className="nav-button px-9">
             JOURNALS
           </a>
-          <a href="#members" className="nav-button px-9">
+          <a href="/letter" className="nav-button px-9">
             MEMBERS
           </a>
         </div>
